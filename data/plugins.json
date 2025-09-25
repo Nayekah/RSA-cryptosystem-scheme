@@ -1,0 +1,14 @@
+{
+  "next_id": 2,
+  "items": [
+    {
+      "id": 1,
+      "name": "A1 Theorem Prover",
+      "author": "refki",
+      "filename": "plugin_1.pdf",
+      "uploaded_at": "2025-09-24T11:49:39Z",
+      "sig_b64": "fTbzNo0hc4b8170VW/Dsk6mPLb5qZhmHcwNwmh07LIR2d6wd2GDdg+SFtiLPh463uXJcy1eArmVU7Vd4Y6P4SnpvL5ZFnBxoQOGiHd/CzSWIVXynZRcfCgaZKw5eAcwldMYzYUQwxQf3XKOSurcYjGpHUvxjucufM9f994p8VHNXRHmpVisI/y70GxshCKuUOH5agZ7DWcXiLm63tRhLHCip0eLDA0xyAn5G1oXVENnLkOR2JgHFSh6dH+OGuNlGQtTqG4hCbQc+x2N6leyZQsQyzxGt8CrOnko3mGw1PotHE7MKlhWrA2aJm7DaT4IzdJlMqUFlcA1a8104BkPXAw==",
+      "sha256": "fa38369ac9421e9366544670e95ef67bc5f23a9532538a4973e58a55086b37c0"
+    }
+  ]
+}

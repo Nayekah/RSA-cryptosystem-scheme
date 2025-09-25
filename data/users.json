@@ -1,0 +1,14 @@
+{
+  "refki": {
+    "password_hash_b64": "sf6b7C8JxKPQwpaNOIQciiJLps6pSoX6sPdDbmQaxns=",
+    "salt_hex": "cf24e434778dc351905a044fb806d4c1",
+    "public_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2p2YC0krmQbOu72jHH01\nwnf5S6U0FZfiabokASEv3hPgN3tUkl584OWZXcdbd+fD3rBE7V/+K0IlDIyJxOqi\nNEYD+Jn3UTE+YjlUHjLiYDLrwq5aQ7MeITtGqWkMxhbIePXbUeJLMppBRcF4hCeJ\n019cs4s4XmCoemh1W+Nol2F7qk441RhUCNwS/0cFip1HU/vYc5WcbGm3ut7HeEFG\neoSYxxgIXXTQ5pXh6j6tmF/mbaQpxJleAOV9LNJbcTbcKNXxoT8QSSF3dgonP0Vq\n9pIEWioc5sP8Moh+udP4aJ3QQrDKKhIYDVMD2m8r4Is+cx9TTFZzghqgtPKGBPmi\nsQIDAQAB\n-----END PUBLIC KEY-----",
+    "created_at": "2025-09-24T03:56:15Z"
+  },
+  "ahmad": {
+    "password_hash_b64": "ZdDAjMtCcwKuuWbVPPqA2Lbw0OnYjCcPkawIv8zqvZA=",
+    "salt_hex": "1f30fc2192a0a47cc1752e39d4f1be05",
+    "public_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmeGVyuFuevEASz5YK16O\nSWPcVaPfKHnH75dtXk/5gwDkI4Z7SuTK7Ly14fNWyYDiqEwJMRQkEtq13We3vfO9\nMP+C+fqIfv64irFEFNXBR/UrzodPkYE/wkFavMmFYbg+h2NNbBLucebZ2dEBYfg+\nPnveskH4gHHez8KVBdc+W5yLQNLrnqA9wTDTyMRYhDf446DurppjshokqpUxlhB3\n14+OfHOGNhor9/cB+lDu2QcJ4H405Mnhg1peEdArEcJu5uF4vorDRZhJBnWummCf\ntx7BQdIhvlHQvSIxjkK5fMCleo8Zgqa2wbDHXuTE0rbWpo2sLcAmb9SDIEddOXnk\nfQIDAQAB\n-----END PUBLIC KEY-----",
+    "created_at": "2025-09-24T03:56:28Z"
+  }
+}
