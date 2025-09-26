@@ -356,8 +356,15 @@ def do_check(sock, state):
         return
 
     payload = resp["payload"]
+    
+    suggested = my_priv_path(state["user"])
+    p_label(f"Enter path to YOUR PRIVATE KEY (PEM) to decrypt (e.g., {suggested}):")
+    priv_path = prompt().strip()
 
-    priv_path = my_priv_path(state["user"])
+    if not priv_path:
+        p_warn("Cancelled.")
+        pause()
+        return
 
     if not os.path.isfile(priv_path):
         p_err(f"Private key file not found: {priv_path}")
